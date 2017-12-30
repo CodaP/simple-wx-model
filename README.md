@@ -4,6 +4,8 @@ Let's make the original weather model that our boy, John von Neumann, created fo
 
 It basically integrated the [barotropic vorticity equation](https://en.wikipedia.org/wiki/Barotropic_vorticity_equation) on the 500 hPa surface.
 
+Details were published in *Charney, J. G., Fjörtoft, R., & Neumann, J. V. (1950). Numerical integration of the barotropic vorticity equation. Tellus, 2(4), 237-254.*
+
 [Here](http://www.rsmas.miami.edu/personal/miskandarani/Courses/MPO662/Lynch,Peter/OriginsCompWF.JCP227.pdf) is a paper about it's origins. You can also find more information at the end of Holton textbook.
 
 Some features I would like to see:
